@@ -105,7 +105,7 @@ local wiak = akTab:CreateParagraph({
     Text = "It is a button or feature that prevents any Client Anti Cheat system in games from banning you from the game (the scripts that tell you that they disable Server Anti Cheat are all lies)"
 })
 local githubLink = akTab:CreateLabel({
-    Text = "Our Official Github Link:", "https://github.com/GozBlox/RobloxAntiKick",
+    Text = "https://github.com/GozBlox/RobloxAntiKick",
     Style = 3
 })
 akTab:CreateSection("Anti Kick Feature")
